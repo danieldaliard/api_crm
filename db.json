@@ -1,0 +1,53 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "clientes": [
+    {
+      "nombre": "Cliente 1 modificado",
+      "empresa": "Empresa 1 modificada",
+      "email": "cliente1@gmail.com",
+      "telefono": "11111111",
+      "notas": "asd",
+      "id": 1
+    },
+    {
+      "nombre": "Cliente 2",
+      "empresa": "Empresa 2",
+      "email": "cliente2@gmail.com",
+      "telefono": "22222222",
+      "notas": "dfsdaaweeawlñññoawefasd",
+      "id": 2
+    },
+    {
+      "nombre": "Cliente 4",
+      "empresa": "Empresa 4",
+      "email": "cliente4@gmail.com",
+      "telefono": "44444444",
+      "notas": "loremfdasfasd",
+      "id": 4
+    },
+    {
+      "nombre": "Cliente 5",
+      "empresa": "Empresa 5",
+      "email": "correo@correo.com",
+      "telefono": "",
+      "notas": "lll",
+      "id": 5
+    }
+  ]
+}
